@@ -5,3 +5,6 @@
 /service-log/target/
 /service-new-order/target/
 /target/
+.idea
+service-users/target/
+service-http-ecommerce/target/
